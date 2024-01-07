@@ -26,7 +26,7 @@ public class LoginTestCases {
 		 * LoginPageobject.password.sendKeys("admin123"); LoginPageobject.login.click();
 		 */	
 		
-		//this is used to FindEement methods
+		//this is used to FindElement methods
 		
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
 
